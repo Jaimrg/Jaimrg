@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaimrg
 - 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning ...Java, Html and CSS
+- 🌱 I’m currently learning ...Java, Html, Css, Javascript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jaimerungo12b2@gmail.com
 
