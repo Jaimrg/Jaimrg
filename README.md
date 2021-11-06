@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jaimerungo12b2@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaimrg)](https://github.com/anuraghazra/github-readme-stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Jaimrg)](https://github.com/anuraghazra/github-readme-stats"
 
 
 <!---
