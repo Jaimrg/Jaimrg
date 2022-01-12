@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Jaimrg
-- 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning ... Frontend and backend frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jaimerungo12b2@gmail.com
+## Ola, Eu Sou Jaime!
+<div align="center">
+  <a href="https://github.com/Jaimrg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimrg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimrg&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaimrg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-<!---
-Jaimrg/Jaimrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
